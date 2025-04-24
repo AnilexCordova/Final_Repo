@@ -29,7 +29,7 @@ public class CommonFunction
 		assert driver.getTitle().equals("TOSS Academy");
 		System.out.println("Login successful");
 		System.out.println("Page title is: " + driver.getTitle());
-				
+		System.out.println("Ahil commit");				
 	}
 	
 	@AfterSuite
